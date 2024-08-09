@@ -16,9 +16,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com//jeniskatuwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="/jeniskatuwal" height="30" width="40" /></a>
+<a href="https://twitter.com/jeniskatuwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="/jeniskatuwal" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jenish-katuwal-0787b3246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jenish-katuwal-0787b3246" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/users/26710152/jenish-katuwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/26710152/jenish-katuwal" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/26710152/jenish-katuwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="users/26710152/jenish-katuwal" height="30" width="40" /></a>
 <a href="https://fb.com/jenishkatuwal0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jenishkatuwal0" height="30" width="40" /></a>
 </p>
 
