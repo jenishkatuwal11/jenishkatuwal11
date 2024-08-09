@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Jenish Katuwal</h1>
 <h3 align="center">A passionate Fullstack developer from Nepal</h3>
-<img align="right" alt="Coding" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/attachments/delivery/asset/1068778a2b8dbcb2a0b1b13258bdb7ed-1681040096/IT_office_closeup_highres/create-a-pixel-art-illustration-or-gif.gif">
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1400/0*NgUtI3tYLhuq5Vy0.gif">
 
 
 
