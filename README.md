@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Software+Engineer;MERN+Stack+Specialist;Cloud+%26+DevOps+Enthusiast;Open+Source+Contributor)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&height=60&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver;Continuous+Learner)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,17 +10,18 @@
 
 ## 🎯 About Me
 
-**Software Engineer** passionate about building scalable, user-centric applications and solving complex technical challenges. Based in **Kathmandu, Nepal** 🇳🇵, I specialize in full-stack development with expertise in modern JavaScript ecosystem and cloud technologies.
+**Aspiring Software Developer** passionate about creating innovative web solutions and learning cutting-edge technologies. Based in **Kathmandu, Nepal** 🇳🇵, I'm dedicated to mastering full-stack development and building impactful digital experiences.
 
 ```typescript
 const jenish = {
     location: "Kathmandu, Nepal 🇳🇵",
-    role: "Full Stack Software Engineer",
-    experience: "3+ years in web development",
-    focus: ["System Design", "Scalable Architecture", "DevOps"],
-    currentlyLearning: ["Microservices", "Kubernetes", "AWS Solutions Architecture"],
-    askMeAbout: ["JavaScript", "React", "Node.js", "System Design", "API Architecture"],
-    funFact: "I debug with console.log() and I'm proud of it! 🐛"
+    role: "Full Stack Developer",
+    status: "Open to opportunities",
+    focus: ["Web Development", "Problem Solving", "Clean Code"],
+    currentlyLearning: ["Advanced React Patterns", "System Design", "DevOps"],
+    askMeAbout: ["JavaScript", "React", "Node.js", "MongoDB", "Web APIs"],
+    goalFor2025: "Land my first software engineering role",
+    funFact: "I turn coffee into code and bugs into features! ☕→💻"
 };
 ```
 
@@ -28,21 +29,24 @@ const jenish = {
 
 ## 🚀 Current Focus
 
-- 🔥 **Building:** Enterprise-level MERN applications with microservices architecture
-- 📚 **Learning:** Advanced System Design, Kubernetes, and AWS Cloud Solutions
-- 🎯 **Goal:** Contributing to open-source projects and mentoring junior developers
-- 💡 **Exploring:** AI/ML integration in web applications
+- 🔥 **Building:** Real-world projects with MERN stack and modern best practices
+- 📚 **Learning:** Advanced JavaScript concepts, system design principles, and cloud technologies
+- 🎯 **Goal:** Secure a junior developer position and contribute to meaningful projects
+- 💡 **Exploring:** Open source contributions and collaborative development
 
 ---
 
-## 🛠️ Technology Stack
+## 🛠️ Technology Arsenal
 
 ### **Frontend Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
 
 ### **Backend Development**
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
@@ -51,63 +55,50 @@ const jenish = {
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-### **DevOps & Cloud**
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+### **Tools & Technologies**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### **Tools & Utilities**
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
-## 📈 GitHub Analytics
+## 📈 GitHub Statistics
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jenishkatuwal11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenishkatuwal11&layout=compact&langs_count=8&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jenishkatuwal11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jenishkatuwal11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jenishkatuwal11&theme=tokyonight)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=jenishkatuwal11&theme=tokyonight&row=1&column=7&margin-h=10&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jenishkatuwal11&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 📊 Contribution Graph
+## 🎓 Learning Journey
 
-<div align="center">
-
-[![Jenish's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jenishkatuwal11&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
+- 🌱 **Currently Mastering:** Advanced React patterns, Node.js architecture, and database optimization
+- 📖 **Reading:** Clean Code, System Design Interview, JavaScript: The Good Parts
+- 🔧 **Building:** Portfolio projects that demonstrate real-world problem-solving
+- 🤝 **Seeking:** Mentorship opportunities and collaborative projects
+- 🎯 **Next Goals:** Contributing to open source, learning cloud platforms (AWS/Azure)
 
 ---
 
-## 💼 Professional Highlights
+## 💼 Project Highlights
 
-- ⚡ **Performance Optimization:** Improved application load times by 40% through code splitting and lazy loading
-- 🔧 **API Development:** Built RESTful APIs serving 10,000+ requests/day with 99.9% uptime
-- 🎨 **UI/UX Excellence:** Delivered pixel-perfect, responsive designs across all device types
-- 🚀 **DevOps Integration:** Implemented CI/CD pipelines reducing deployment time by 60%
-- 📱 **Cross-Platform:** Experience in both web and mobile application development
+- 🚀 **Full-Stack Applications:** Built complete MERN stack projects with authentication & deployment
+- 🎨 **Responsive Design:** Crafted pixel-perfect, mobile-first user interfaces
+- 🔗 **API Development:** Created RESTful APIs with proper error handling and validation
+- 📱 **Modern Practices:** Implemented best practices for code organization and documentation
+- 🐛 **Problem Solving:** Debugged complex issues and optimized application performance
 
 ---
 
@@ -119,43 +110,40 @@ const jenish = {
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jeniskatuwal)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/26710152/jenish-katuwal)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenishkatuwal7@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/jenishkatuwal0)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white)](#)
 
 </div>
 
 ---
 
-## 💡 Fun Facts
+## 💭 Philosophy & Approach
 
-- 🎮 Gaming enthusiast who finds inspiration in game mechanics for web UX
-- 🌄 Mountain lover from the land of Everest
-- ☕ Coffee-driven developer (5 cups minimum per coding session)
-- 🎵 Code better with lo-fi beats in the background
-- 📚 Always reading tech blogs and staying updated with industry trends
+- 💡 **Clean Code:** Writing code that tells a story and is easy to maintain
+- 🎯 **User-Centric:** Always keeping the end user experience in mind
+- 📚 **Continuous Learning:** Staying updated with the latest technologies and best practices
+- 🤝 **Collaboration:** Believing in the power of teamwork and knowledge sharing
+- 🔄 **Iterative Improvement:** Embracing feedback and constantly refining skills
 
 ---
 
-## 📝 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building Scalable REST APIs with Node.js and Express](#)
-- [React Performance Optimization Techniques](#)  
-- [Docker Containerization for MERN Stack Applications](#)
-<!-- BLOG-POST-LIST:END -->
+## 🎮 Beyond Code
+
+- 🏔️ **Mountain Explorer:** Finding inspiration in Nepal's beautiful landscapes
+- ☕ **Coffee Enthusiast:** Fueling coding sessions with perfectly brewed coffee
+- 🎵 **Music Lover:** Coding to the rhythm of lo-fi beats and instrumental music
+- 📚 **Tech Reader:** Always exploring new programming concepts and industry trends
+- 🎲 **Problem Solver:** Enjoying algorithmic challenges and coding puzzles
 
 ---
 
 <div align="center">
 
-### 🚀 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 🚀 "The best way to predict the future is to create it." - Peter Drucker
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jenishkatuwal11&style=for-the-badge&color=0e75b6)
 
+**💫 Always open to interesting conversations and collaboration opportunities!**
+
 **⭐ From [jenishkatuwal11](https://github.com/jenishkatuwal11)**
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
